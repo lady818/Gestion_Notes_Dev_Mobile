@@ -72,7 +72,7 @@ git clone https://github.com/lady818/Gestion_Notes_Dev_Mobile.git
 - Saisir un mot-clé dans la barre de recherche.
 - Les notes correspondantes sont affichées automatiquement.
 
-## 👥 Auteurs
+## 👥 Auteur
 
 - **Mame Sadio Guisse**
 
