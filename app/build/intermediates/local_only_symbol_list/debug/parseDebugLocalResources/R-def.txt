@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color gray
+color green
+color orange
+color red
+color white
+color yellow
+drawable delete_button_background
+drawable favorite_filter_background
+drawable ic_launcher
+drawable ic_launcher_round
+drawable primary_button_background
+drawable search_background
+id addButton
+id colorContainer
+id colorPalette
+id contentEditText
+id deleteButton
+id emptyText
+id favoriteButton
+id notesContainer
+id notesScrollView
+id saveButton
+id screenTitleText
+id searchBar
+id searchEditText
+id titleEditText
+id titleText
+layout activity_edit_note
+layout activity_main
+string app_name
+style AppTheme

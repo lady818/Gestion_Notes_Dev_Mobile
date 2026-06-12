@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bmd tech\\.gradle\\daemon\\9.0.0\\com.example.gestionotes.app-debug-4:\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\bmd tech\\Desktop\\coding\\Gestio_Notes\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "423",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "761"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bmd tech\\Desktop\\coding\\Gestio_Notes\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "373",
+                        "endColumns": "49",
+                        "endOffsets": "418"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bmd tech\\Desktop\\coding\\Gestio_Notes\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1,6,3,4,8,5,2,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,213,96,135,293,175,56,252",
+                        "endColumns": "39,38,38,39,40,37,39,40",
+                        "endOffsets": "51,247,130,170,329,208,91,288"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,173,213,254,292,332",
+                        "endColumns": "39,38,38,39,40,37,39,40",
+                        "endOffsets": "90,129,168,208,249,287,327,368"
+                    }
+                }
+            ]
+        }
+    ]
+}
